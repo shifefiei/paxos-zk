@@ -63,3 +63,6 @@ server.1=ip1.2890.3890
 在 %ZK_HOME%/bin 目录下有
 1. zkServer.sh start 启动服务；zkServer.sh stop 停止服务
 2. zkCleanup.sh 清除zk历史数据；zkCli.sh 客户端
+
+# 参考博客
+https://segmentfault.com/a/1190000019264351
